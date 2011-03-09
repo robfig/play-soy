@@ -1,0 +1,6 @@
+h1. Play! Closure Templates module.
+
+h2. Objective
+
+Make it easy to use Closure Templates in your Play! application.
+
